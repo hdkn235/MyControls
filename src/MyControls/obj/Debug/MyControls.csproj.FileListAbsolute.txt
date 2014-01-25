@@ -1,0 +1,8 @@
+E:\Projects\MyControls\MyControls\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MyControls\MyControls\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\MyControls\MyControls\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\MyControls\MyControls\bin\Debug\HD.MyControls.dll
+E:\Projects\MyControls\MyControls\bin\Debug\HD.MyControls.pdb
+E:\Projects\MyControls\MyControls\obj\Debug\HD.MyControls.dll
+E:\Projects\MyControls\MyControls\obj\Debug\HD.MyControls.pdb
+E:\Projects\MyControls\MyControls\obj\Debug\HD.MyControls.VistaButton.resources
