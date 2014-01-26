@@ -7,3 +7,15 @@ E:\Projects\MyControls\src\MyControls\obj\Debug\GenerateResource.read.1.tlog
 E:\Projects\MyControls\src\MyControls\obj\Debug\GenerateResource.write.1.tlog
 E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.dll
 E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.pdb
+D:\Projects\MyControls\src\MyControls\bin\Debug\HD.MyControls.dll
+D:\Projects\MyControls\src\MyControls\bin\Debug\HD.MyControls.pdb
+D:\Projects\MyControls\src\MyControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.VistaButton.resources
+D:\Projects\MyControls\src\MyControls\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\MyControls\src\MyControls\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.dll
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.pdb
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.Properties.Resources.resources
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.TextBoxEx.resources
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.FormEx.resources
+D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.QQMessageBox.resources

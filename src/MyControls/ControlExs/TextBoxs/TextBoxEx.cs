@@ -3,7 +3,7 @@ using System.Drawing;
 using System.ComponentModel;
 using System.Text.RegularExpressions;
 
-namespace DotNet.WinForm.ColorSkin.ExTextBox
+namespace HD.MyControls
 {
     [ToolboxBitmap(typeof(TextBox))]
     public class TextBoxEx : TextBox

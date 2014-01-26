@@ -22,3 +22,17 @@ E:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.Form2.resources
 E:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.Properties.Resources.resources
 E:\Projects\MyControls\src\Samples\obj\x86\Debug\GenerateResource.read.1.tlog
 E:\Projects\MyControls\src\Samples\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.exe
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.pdb
+D:\Projects\MyControls\src\Samples\bin\Debug\Samples.exe
+D:\Projects\MyControls\src\Samples\bin\Debug\Samples.pdb
+D:\Projects\MyControls\src\Samples\bin\Debug\HD.MyControls.dll
+D:\Projects\MyControls\src\Samples\bin\Debug\HD.MyControls.pdb
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.Form1.resources
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.Form2.resources
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.Properties.Resources.resources
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.Form3.resources
+D:\Projects\MyControls\src\Samples\obj\x86\Debug\Samples.FormDemo.resources

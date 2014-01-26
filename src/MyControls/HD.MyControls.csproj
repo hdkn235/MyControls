@@ -42,21 +42,109 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TextBoxEx.cs">
+    <Compile Include="Common Class\ColorTable.cs" />
+    <Compile Include="ControlExs\FormEx\FormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlExs\FormEx\FormEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlExs\FormEx\SystemButton.cs" />
+    <Compile Include="ControlExs\FormEx\SystemButtonManager.cs" />
+    <Compile Include="ControlExs\Buttons\ImageButton.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="VistaButton.cs">
+    <Compile Include="ControlExs\QQControls\QQButton\QQButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlExs\QQControls\QQCheckBox\QQCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlExs\QQControls\QQGlassButton\QQGlassButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlExs\QQControls\QQMessageBox\QQMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlExs\QQControls\QQMessageBox\QQMessageBoxButtons.cs" />
+    <Compile Include="ControlExs\QQControls\QQMessageBox\QQMessageBoxIcon.cs" />
+    <Compile Include="ControlExs\QQControls\QQRadioButton\QQRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlExs\QQControls\QQTextBox\QQTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Enums\ClassStyle.cs" />
+    <Compile Include="Enums\MouseOperate.cs" />
+    <Compile Include="Enums\QQControlState.cs" />
+    <Compile Include="Enums\SystemButtonState.cs" />
+    <Compile Include="Enums\WindowStyle.cs" />
+    <Compile Include="Enums\WindowStyleEx.cs" />
+    <Compile Include="Methods\RenderHelper.cs" />
+    <Compile Include="Methods\Win32.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ControlExs\TabControls\TabControlEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlExs\TextBoxs\TextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlExs\Buttons\VistaButton.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="TextBoxEx.resx">
+    <EmbeddedResource Include="ControlExs\FormEx\FormEx.resx">
+      <DependentUpon>FormEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlExs\QQControls\QQMessageBox\QQMessageBox.resx">
+      <DependentUpon>QQMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlExs\TextBoxs\TextBoxEx.resx">
       <DependentUpon>TextBoxEx.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VistaButton.resx">
+    <EmbeddedResource Include="ControlExs\Buttons\VistaButton.resx">
       <DependentUpon>VistaButton.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ControlExs\FormEx\Res\fringe_bkg.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\close_down.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\close_highlight.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\close_normal.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\max_down.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\max_highlight.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\max_normal.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\min_down.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\min_highlight.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\min_normal.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\restore_down.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\restore_highlight.png" />
+    <EmbeddedResource Include="ControlExs\FormEx\Res\SystemButtons\restore_normal.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQButton\Image\qqbtn_down.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQButton\Image\qqbtn_focus.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQButton\Image\qqbtn_highlight.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQButton\Image\qqbtn_normal.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQCheckBox\Image\check.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQGlassButton\Image\glassbtn_down.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQGlassButton\Image\glassbtn_hot.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQMessageBox\Icons\qqmessagebox_error.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQMessageBox\Icons\qqmessagebox_infor.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQMessageBox\Icons\qqmessagebox_ok.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQMessageBox\Icons\qqmessagebox_question.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQMessageBox\Icons\qqmessagebox_warning.png" />
+    <EmbeddedResource Include="ControlExs\QQControls\QQRadioButton\Image\dot.png" />
+    <EmbeddedResource Include="ControlExs\TabControls\Image\TabButtonBackground.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
