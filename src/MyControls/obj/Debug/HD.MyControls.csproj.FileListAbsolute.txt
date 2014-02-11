@@ -1,7 +1,6 @@
 E:\Projects\MyControls\src\MyControls\bin\Debug\HD.MyControls.dll
 E:\Projects\MyControls\src\MyControls\bin\Debug\HD.MyControls.pdb
 E:\Projects\MyControls\src\MyControls\obj\Debug\ResolveAssemblyReference.cache
-E:\Projects\MyControls\src\MyControls\obj\Debug\DotNet.WinForm.ColorSkin.ExTextBox.TextBoxEx.resources
 E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.VistaButton.resources
 E:\Projects\MyControls\src\MyControls\obj\Debug\GenerateResource.read.1.tlog
 E:\Projects\MyControls\src\MyControls\obj\Debug\GenerateResource.write.1.tlog
@@ -19,3 +18,7 @@ D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.Properties.Resourc
 D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.TextBoxEx.resources
 D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.FormEx.resources
 D:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.QQMessageBox.resources
+E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.FormEx.resources
+E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.QQMessageBox.resources
+E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.Properties.Resources.resources
+E:\Projects\MyControls\src\MyControls\obj\Debug\HD.MyControls.TextBoxEx.resources
